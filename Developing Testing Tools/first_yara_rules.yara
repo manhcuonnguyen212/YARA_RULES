@@ -15,5 +15,5 @@ rule network_rules{
         $s2="recvfrom" nocase
         $s3="wsastartup" nocase fullword
     condition:
-        all of them
+        any of them
 }
