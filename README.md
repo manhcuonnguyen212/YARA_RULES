@@ -11,3 +11,4 @@
 			compile c# file to exe file: csc file_name.cs
 			run exe file and get PID
 			yara -s -m first_yara_rules PID
+## Identifying File Types and Content

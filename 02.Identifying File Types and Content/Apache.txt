@@ -1,0 +1,9 @@
+203.0.113.42 - - [15/Jan/2023:08:23:45 +0000] "GET /index.html HTTP/1.1" 200 234 "https://example.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+
+203.0.113.42 - - [15/Jan/2023:09:12:30 +0000] "POST /login.aspx HTTP/1.1" 200 123 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
+
+203.0.113.42 - - [15/Jan/2023:10:45:12 +0000] "GET /images/logo.png HTTP/1.1" 304 56 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1"
+
+203.0.113.42 - - [15/Jan/2023:11:30:05 +0000] "GET /page.aspx?id=123 HTTP/1.1" 404 432 "https://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+
+203.0.113.42 - - [15/Jan/2023:12:15:20 +0000] "GET /scripts/script.js HTTP/1.1" 200 78 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
